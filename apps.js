@@ -16,7 +16,7 @@ console.log(fullname);
 //object arrays methods
 let fruits = ["grapes", "bananas", "peaches"];
 
-fruits [0] = "strawberries";
+fruits [0] = "berries";
 
 console.log(fruits[1]);
 console.log(fruits[2]);
